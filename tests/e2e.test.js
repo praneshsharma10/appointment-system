@@ -12,6 +12,8 @@ beforeAll((done) => {
   });
 });
 
+
+//sequence in which i want to execute the processes
 describe('E2E Test for College Appointment System', () => {
   let studentA1, studentA2, professorP1;
 

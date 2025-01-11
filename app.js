@@ -1,5 +1,5 @@
 
-
+//setting routes
 const express = require('express');
 const authRoutes = require('./routes/auth');
 const availabilityRoutes = require('./routes/availability');
